@@ -1,5 +1,5 @@
 # Example text
-from Binary to decimal
+# From Binary to decimal
 11000000.10101000.00000001.00010101 = 192.168.1.21
 
 # 11000000 = 192			
